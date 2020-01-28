@@ -8,5 +8,4 @@ __*
 __init__.py
 *.log
 crime.db
-lastupdated
 LAST_DB_UPDATE_TIMESTAMP
